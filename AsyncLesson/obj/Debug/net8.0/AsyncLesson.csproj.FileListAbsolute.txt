@@ -1,0 +1,14 @@
+/Users/pincode/Documents/GitHub/AsyncLesson/AsyncLesson/bin/Debug/net8.0/AsyncLesson
+/Users/pincode/Documents/GitHub/AsyncLesson/AsyncLesson/bin/Debug/net8.0/AsyncLesson.deps.json
+/Users/pincode/Documents/GitHub/AsyncLesson/AsyncLesson/bin/Debug/net8.0/AsyncLesson.runtimeconfig.json
+/Users/pincode/Documents/GitHub/AsyncLesson/AsyncLesson/bin/Debug/net8.0/AsyncLesson.dll
+/Users/pincode/Documents/GitHub/AsyncLesson/AsyncLesson/bin/Debug/net8.0/AsyncLesson.pdb
+/Users/pincode/Documents/GitHub/AsyncLesson/AsyncLesson/obj/Debug/net8.0/AsyncLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pincode/Documents/GitHub/AsyncLesson/AsyncLesson/obj/Debug/net8.0/AsyncLesson.AssemblyInfoInputs.cache
+/Users/pincode/Documents/GitHub/AsyncLesson/AsyncLesson/obj/Debug/net8.0/AsyncLesson.AssemblyInfo.cs
+/Users/pincode/Documents/GitHub/AsyncLesson/AsyncLesson/obj/Debug/net8.0/AsyncLesson.csproj.CoreCompileInputs.cache
+/Users/pincode/Documents/GitHub/AsyncLesson/AsyncLesson/obj/Debug/net8.0/AsyncLesson.dll
+/Users/pincode/Documents/GitHub/AsyncLesson/AsyncLesson/obj/Debug/net8.0/refint/AsyncLesson.dll
+/Users/pincode/Documents/GitHub/AsyncLesson/AsyncLesson/obj/Debug/net8.0/AsyncLesson.pdb
+/Users/pincode/Documents/GitHub/AsyncLesson/AsyncLesson/obj/Debug/net8.0/AsyncLesson.genruntimeconfig.cache
+/Users/pincode/Documents/GitHub/AsyncLesson/AsyncLesson/obj/Debug/net8.0/ref/AsyncLesson.dll
